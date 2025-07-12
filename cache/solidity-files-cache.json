@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/mnt/c/Users/Sarap/Desktop/ETH KIPU/Module4/inClass/LotteryOracle/contracts/Lottery.sol": {
-      "lastModificationDate": 1752324200118,
-      "contentHash": "cb90e5704068c7284167202bac5f5d57",
+      "lastModificationDate": 1752336418593,
+      "contentHash": "70bfe8cc8c815d4bae6aa53173cbba8e",
       "sourceName": "contracts/Lottery.sol",
       "solcConfig": {
         "version": "0.8.28",
