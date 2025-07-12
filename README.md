@@ -1,3 +1,5 @@
 # LotteryOracle
 
 curl -X POST -H "Content-Type: application/json" --data '{"jsonrpc":"2.0","method":"eth_getBalance","params":["0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266","latest"],"id":1}' http://127.0.0.1:8545/
+
+npx hardhat ignition deploy ./ignition/modules/Lottery.js --network localhost
